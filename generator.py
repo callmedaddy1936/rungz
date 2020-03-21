@@ -1,5 +1,5 @@
 #Generator By Backspace UNL-TRREAD=2@xE
-#Backspace กรุณาอย่าก๊อปนะค่ะ
+#Backspace DONT COPY MY SCRIPT ^ ^
 import threading
 import socket
 import urllib
